@@ -1,14 +1,14 @@
 # Tyrone John – Aspiring Data Analyst
-I am an entry-level data analyst with skills in Excel, web development, and SEO. This project demonstrates my ability to analyze business data and generate actionable insights.
+I am an entry-level data analyst with skills in Excel, web design & development, and SEO. This project demonstrates my ability to analyze business data and generate actionable insights.
 
 ## Project: Hotel Booking & Marketing Analysis
 
 ### Objective
-Analyze website traffic and booking patterns to improve performance and engegement.
+Market and analyze website traffic and booking patterns to improve performance and engagement.
 
 ### Tools
-Excel (data cleaning, pivot tables, dashboards)
-Google Analytics
+- Excel (data cleaning, pivot tables, dashboards)
+- Google Analytics
 
 ### Website Behavior Analysis
 - Key Metrics Observed
@@ -26,12 +26,12 @@ Google Analytics
 - Strong click activity suggests interest but possible UX issues
 
 ### Recommendations
-Focus on mobile optimization
-Improve call-to-action placement
-Reduce friction in booking process
-Optimize high drop-off sections
+- Focus on mobile optimization
+- Improve call-to-action placement
+- Reduce friction in booking process
+- Optimize high drop-off sections
 
 ### Contact
-Email: tyronejohn001@gmail.com
-Phone: 0792381698
-Location: Nairobi, Kenya
+- Email: tyronejohn001@gmail.com
+- Phone: 0792381698
+- Location: Nairobi, Kenya
