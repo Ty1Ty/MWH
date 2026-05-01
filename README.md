@@ -8,16 +8,28 @@ Analyze website traffic and booking patterns to improve performance and engegeme
 
 ### Tools
 Excel (data cleaning, pivot tables, dashboards)
+Google Analytics
+
+### Website Behavior Analysis
+- Key Metrics Observed
+- 59 user sessions recorded
+- 210 total clicks
+- Average session duration: 2 minutes 38 seconds
+- Scroll depth: 63.5%
+- Drop-off rate: 48.8%
 
 ### Key Insights
 - Traffic increases after marketing campaign
 - Mobile users dominate
-- Booking trends vary over time
+- Users engage well but don’t fully convert
+- Nearly half drop off before completing actions
+- Strong click activity suggests interest but possible UX issues
 
 ### Recommendations
 Focus on mobile optimization
-Increase marketing during peak periods
-Improve booking conversion strategy
+Improve call-to-action placement
+Reduce friction in booking process
+Optimize high drop-off sections
 
 ### Contact
 Email: tyronejohn001@gmail.com
