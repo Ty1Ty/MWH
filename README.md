@@ -10,6 +10,16 @@ Market and analyze website traffic and booking patterns to improve performance a
 - Excel (data cleaning, pivot tables, dashboards)
 - Google Analytics
 
+## Website Analytics
+
+![Analytics Dashboard](visuals/website-analytics.png)
+
+This chart displays the amount of new users after marketing and implementing changes.
+
+![Analytics Dashboard](visuals/traffic-dashboard.png)
+
+The chart displays strong click activity that suggests interest but possible UX issues.
+
 ### Website Behavior Analysis
 - Key Metrics Observed
 - 59 user sessions recorded
