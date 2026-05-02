@@ -1,5 +1,6 @@
 # Tyrone John – Aspiring Data Analyst
 I am an entry-level data analyst with skills in Excel, web design & development, and SEO. This project demonstrates my ability to analyze business data and generate actionable insights.
+I analyze real user behavior and marketing data to improve business performance and conversions.
 
 ## Project: Hotel Booking & Marketing Analysis
 
@@ -29,11 +30,11 @@ The chart displays strong click activity that suggests interest but possible UX 
 - Drop-off rate: 48.8%
 
 ### Key Insights
-- Traffic increases after marketing campaign
 - Mobile users dominate
-- Users engage well but don’t fully convert
-- Nearly half drop off before completing actions
 - Strong click activity suggests interest but possible UX issues
+- Website traffic increased after marketing efforts  
+- Users interact (high clicks) but conversion is low  
+- Nearly 50% of users drop off before completing actions 
 
 ### Recommendations
 - Focus on mobile optimization
