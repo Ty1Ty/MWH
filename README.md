@@ -32,7 +32,7 @@ The chart displays strong click activity that suggests interest but possible UX 
 ### Key Insights
 - Mobile users dominate
 - Strong click activity suggests interest but possible UX issues
-- Website traffic increased after marketing efforts  
+- Website traffic increased from the 4 first visitors after marketing efforts  
 - Users interact (high clicks) but conversion is low  
 - Nearly 50% of users drop off before completing actions 
 
@@ -44,5 +44,4 @@ The chart displays strong click activity that suggests interest but possible UX 
 
 ### Contact
 - Email: tyronejohn001@gmail.com
-- Phone: 0792381698
 - Location: Nairobi, Kenya
